@@ -3,7 +3,7 @@ Camera tracking with AR.Drone 2.0, ROS and OpenCV
 
 ## Installation and usage instructions
 
-These instructions assume you don't have previous experience with ROS. If you do, you know what parts you can skip.
+These instructions assume you don't have previous experience with ROS. If you do, you know what parts you can skip. Installation instructions are for Ubuntu 14.04 and it's the only Linux distribution this software has been tested with.
 
 Install and configure ROS:
 
