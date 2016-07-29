@@ -1,5 +1,5 @@
 # flosdrone
-Camera tracking with AR.Drone 2.0, ROS and OpenCV
+Camera tracking with AR.Drone 2.0, ROS and OpenCV. This program was written while I was working as a research assistant in Tampere University of Technology in Department of Signal Processing. A more detailed description of the algorithm can be found in my Bachelor's thesis, which is unfortunately only available in Finnish: http://vision.cs.tut.fi/data/publications/saarimaki_bscthesis_2015.pdf
 
 ## Installation and usage instructions
 
